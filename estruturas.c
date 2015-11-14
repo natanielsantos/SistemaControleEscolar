@@ -1,4 +1,4 @@
-/* Arquivo que guarda as estruturas utilizadas no programa */
+/* Arquivo que guarda as estruturas utilizadas no Sistema */
 
 
 /* CONTROLE DE DATAS ****************************/

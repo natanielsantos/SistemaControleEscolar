@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 /* MENU DE AUTENTICACAO */
->>>>>>> CadastroEscolar/master
 
 int menuLogin(){
 
@@ -43,8 +42,6 @@ int menuLogin(){
 		system("cls");
  }
 
-
-
 /* VERIFICA USUARIO */
 int verificaLogin(Usuario user[]){
 
@@ -69,8 +66,6 @@ int verificaLogin(Usuario user[]){
 	}
 
 	return aux;
-
-
 }
 
 

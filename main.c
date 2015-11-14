@@ -7,7 +7,7 @@ int main()
 
 	int i,op,logar;
 	Usuario usuario[50]; /* grava usuarios*/
-        Aluno alunos[50]; /* grava alunos*/
+	Aluno alunos[50]; /* grava alunos*/
 	Professor professores[50]; /*grava professores*/
 
 	op=menuLogin();
@@ -62,8 +62,8 @@ int main()
     }
 
    }else
-   {
       printf("Usuário inválido!\n");
+   {
    }
 
 
