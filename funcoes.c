@@ -2,14 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-<<<<<<< HEAD
-/* Arquivo com as funções */
-
-
-/* MENU DE AUTENTICAÇÃO */
-=======
-/* Arquivo com as funÃ§Ãµes */
-
 /* MENU DE AUTENTICACAO */
 >>>>>>> CadastroEscolar/master
 
